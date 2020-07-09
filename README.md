@@ -1,8 +1,8 @@
 # TallerCodigo
 Diagramas de secuencias  
 Agendar cita  
-![Solicitar](images/Solicitar cita.png)  
+![Solicitar](images/solicitar.png)  
 El programa pasa todos los test del Testfile:   
 Atender paciente  
-![Atender](images/Atender paciente.png)  
+![Atender](images/atender.png)  
 
