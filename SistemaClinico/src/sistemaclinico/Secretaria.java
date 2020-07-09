@@ -9,14 +9,14 @@ package sistemaclinico;
  *
  * @author Luis
  */
-public class Secretaria extends Persona {
+public class Secretaria extends Cita {
     
     protected Doctor doctor;
     
-    public void verificarCita(){
+    public void verificarCita(Cita cita){
     }
     
-    public void agendarCita(){
+    public void agendarCita(Cita cita){
     }
     
 }
