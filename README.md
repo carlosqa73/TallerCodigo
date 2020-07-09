@@ -3,4 +3,4 @@
 ###Agendar cita
 (Solicitar cita.png)
 ###Atender paciente
-(Atender paciente.png
+(Atender paciente.png)
