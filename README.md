@@ -1,6 +1,6 @@
 # TallerCodigo
 ##Diagramas de secuencias
 ###Agendar cita
-(Solicitar cita.png)
+(/Solicitar cita.png)
 ###Atender paciente
-(Atender paciente.png)
+(/Atender paciente.png)
