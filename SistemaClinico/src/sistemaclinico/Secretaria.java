@@ -9,7 +9,7 @@ package sistemaclinico;
  *
  * @author Luis
  */
-public class Secretaria extends Cita {
+public class Secretaria extends Persona {
     
     protected Doctor doctor;
     
